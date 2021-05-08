@@ -2,6 +2,7 @@ let score = 0;
 let lives = 3;
 let actualLives=3;
 let keyword;
+alert('wtf');
 keywords.sort().forEach(element => {
     $('#keywords').append(`<option>${element}</option>`);
 });
