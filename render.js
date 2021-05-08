@@ -1,3 +1,5 @@
+
+
 let score = 0;
 let lives = 3;
 let actualLives=3;
